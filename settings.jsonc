@@ -1,0 +1,13 @@
+{
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.editorAssociations": {
+        "*.php": "default"
+    },
+    "open-php-html-js-in-browser.selectedBrowser": "Firefox",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "workbench.settings.useSplitJSON": true,
+    "explorer.confirmDelete": false
+}
+
