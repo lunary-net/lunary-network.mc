@@ -31,8 +31,6 @@ For the purposes of these Terms and Conditions:
 
 - __Service__ refers to the Website.
 
-
-- __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
 - __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 - __Website__ refers to Lunary Network, accessible from [https://lunary-net.github.io/lunary-network.mc](https://lunary-net.github.io/lunary-network.mc)
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
@@ -46,7 +44,7 @@ Your access to and use of the Service is conditioned on Your acceptance of and c
 By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
 
-You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+You represent that you are over the age of 13. The Company does not permit those under 13 to use the Service.
 
 
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
